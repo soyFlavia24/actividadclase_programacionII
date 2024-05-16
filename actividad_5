@@ -1,1 +1,14 @@
 
+actividad-clase-5
+actividades n°1
+
+Ingresar dos números por teclado ay b. Si a es mayor que b, imprime 'Hola Politécnico Malvinas'
+. Ingresar dos números por teclado ay b. Si a no es igual ab, imprime 'Hola Politécnico Malvinas'
+Ingresar dos números por teclado ay b. Si a es igual ab, imprimir 'son iguales' sino imprimir 'son distintos'
+. Ingresar dos números por teclado ay b. Si a es igual ab, imprime 1 si a es mayor que b, imprime 2 sino imprime 3.
+Ingrese cuatro números por teclado a, b, cy d. Si a es igual byc es igual ad, imprimir 'Hola Politécnico Malvinas'
+Ingrese cuatro números por teclado a, b, cy d. Si a es igual b ó c es igual ad, imprimir 'Hola Politécnico Malvinas'
+Ingresar la edad de una persona por teclado, mostrar por pantalla si es mayor o menor de edad.
+Ingresar un número por teclado y mostrar por pantalla si es para o impar.
+Ingresar por teclado tres números y mostrar por pantalla el mayor de los tres.
+Ingresar por teclado un nombre, si la variable nombre, no es nula mostrar por pantalla 'Bienvenido '+ nombre, sino mostrar 'Bienvenido anónimo'
